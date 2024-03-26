@@ -1,8 +1,8 @@
 ## Bem-vindo ao meu GitHub!
 
-👋 Olá! Eu sou Samuel, um entusiasta de programação com foco no desenvolvimento de backend. Aqui você encontrará projetos e experimentos em Python, SQL e Java, algumas das tecnologias que mais me interessam e nas quais tenho trabalhado recentemente.
+👋 Olá! Eu sou Samuel, um entusiasta de programação com foco no desenvolvimento de backend. Aqui você encontrará projetos e experimentos em Python, SQL e Java, algumas das tecnologias que mais me interessam, e nas quais tenho trabalhado recentemente.
 
-💻 Estou constantemente aprimorando minhas habilidades e buscando aprender mais sobre arquitetura de sistemas, segurança da informação e eficiência no desenvolvimento de software.
+💻 Estou constantemente aprimorando minhas habilidades e buscando aumentar meus conhecimentos sobre arquitetura de sistemas, segurança da informação e eficiência no desenvolvimento de software.
 
 ### Tecnologias na qual estou mais relacionado
 
