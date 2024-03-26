@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil no GitHub!
+## Bem-vindo ao meu GitHub!
 
 👋 Olá! Eu sou Samuel, um entusiasta de programação com foco no desenvolvimento de backend. Aqui você encontrará projetos e experimentos em Python, SQL e Java, algumas das tecnologias que mais me interessam e nas quais tenho trabalhado recentemente.
 
