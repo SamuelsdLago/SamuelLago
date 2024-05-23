@@ -3,8 +3,8 @@
 👋 Olá! Eu sou Samuel, um entusiasta de programação com foco no desenvolvimento de backend. Aqui você encontrará projetos e experimentos em Python, SQL e Java, algumas das tecnologias que mais me interessam, e nas quais tenho trabalhado recentemente.
 
 💻 Estou constantemente aprimorando minhas habilidades e buscando aumentar meus conhecimentos sobre arquitetura de sistemas, segurança da informação e eficiência no desenvolvimento de software.
-
-### Tecnologias na qual estou mais relacionado
+---
+### Tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
