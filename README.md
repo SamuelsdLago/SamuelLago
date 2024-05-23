@@ -3,6 +3,7 @@
 👋 Olá! Eu sou Samuel, um entusiasta de programação com foco no desenvolvimento de backend. Aqui você encontrará projetos e experimentos em Python, SQL e Java, algumas das tecnologias que mais me interessam, e nas quais tenho trabalhado recentemente.
 
 💻 Estou constantemente aprimorando minhas habilidades e buscando aumentar meus conhecimentos sobre arquitetura de sistemas, segurança da informação e eficiência no desenvolvimento de software.
+
 ---
 ### Tecnologias
 
@@ -12,7 +13,9 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+</div
+    
+---
 
 ### Contato📱
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelsdlago@gmail.com)
